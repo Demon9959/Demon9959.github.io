@@ -2,3 +2,7 @@ User-agent: *
 Disallow: /admin/
 Disallow: /private/
 Disallow: /config.txt
+
+Allow: /
+
+Sitemap: https://demon9959.github.io/sitemap.xml
