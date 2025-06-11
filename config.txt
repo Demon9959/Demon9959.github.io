@@ -1,0 +1,4 @@
+# Configuration file - DO NOT INDEX
+db_username=admin
+db_password=secret123
+api_key=abc123xyz456
